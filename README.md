@@ -4,7 +4,7 @@ A real-time **6-DOF quadrotor simulation** developed in Python, combining nonlin
 
 The project was developed to study and implement a practical flight-control architecture while keeping the simulation and controller fully transparent and customizable.
 
-![Drone Simulator](6-DOF%20INDI%20Drone%20Simulator.png)
+![Drone Simulator](drone%20INDI/6-DOF%20INDI%20Drone%20Simulator.png)
 
 ---
 
